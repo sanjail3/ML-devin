@@ -1,0 +1,23 @@
+Data Info:
+None
+
+Data Description:
+       release_year
+count   8807.000000
+mean    2014.180198
+std        8.819312
+min     1925.000000
+25%     2013.000000
+50%     2017.000000
+75%     2019.000000
+max     2021.000000
+
+Data Head:
+  show_id  ...                                        description
+0      s1  ...  As her father nears the end of his life, filmm...
+1      s2  ...  After crossing paths at a party, a Cape Town t...
+2      s3  ...  To protect his family from a powerful drug lor...
+3      s4  ...  Feuds, flirtations and toilet talk go down amo...
+4      s5  ...  In a city of coaching centers known to train I...
+
+[5 rows x 12 columns]
